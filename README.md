@@ -1,1 +1,2 @@
-![image](https://github.com/Luke317934/UI.Checkpoint.2/assets/92435326/90e4a46d-57a2-4122-aa5d-ecc88f04280a)
+![Screenshot_20240512_101602](https://github.com/PFSK/UI.Checkpoint.3-Navigation/assets/148049224/57c948c2-57a9-4b90-8e6f-45260d8ec6e9)
+![Screenshot_20240512_101612](https://github.com/PFSK/UI.Checkpoint.3-Navigation/assets/148049224/690e9603-10cb-472c-ba26-4ff405a5aaf8)
